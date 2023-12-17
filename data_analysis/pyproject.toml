@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "data-analysis"
+version = "0.1.0"
+description = ""
+authors = ["Michael Kaminski <MKaminski1337@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+faker = "^21.0.0"
+pandas = "^2.1.4"
+datetime = "^5.4"
+memory-profiler = "^0.61.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
