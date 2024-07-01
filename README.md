@@ -14,7 +14,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/MAKaminski/data_analysis)
 ![GitHub top language](https://img.shields.io/github/languages/top/MAKaminski/data_analysis)
 ![Coverage](https://img.shields.io/codecov/c/github/MAKaminski/data_analysis)
-![GitHub contributors](https://img.shields.io/github/contributors/MAKaminski/data_analysis)
 ![GitHub license](https://img.shields.io/github/license/MAKaminski/data_analysis)
 
 ## Issues
