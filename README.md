@@ -1,3 +1,28 @@
+## Traffic Info
+
+![GitHub stars](https://img.shields.io/github/stars/MAKaminski/data_analysis)
+![GitHub watchers](https://img.shields.io/github/watchers/MAKaminski/data_analysis)
+![GitHub forks](https://img.shields.io/github/forks/MAKaminski/data_analysis)
+![GitHub contributors](https://img.shields.io/github/contributors/MAKaminski/data_analysis)
+![GitHub all releases](https://img.shields.io/github/downloads/MAKaminski/data_analysis/total)
+![GitHub release date](https://img.shields.io/github/release-date/MAKaminski/data_analysis)
+![GitHub last commit](https://img.shields.io/github/last-commit/MAKaminski/data_analysis)
+
+## Repo
+![GitHub repo size](https://img.shields.io/github/repo-size/MAKaminski/data_analysis)
+![GitHub code size](https://img.shields.io/github/languages/code-size/MAKaminski/data_analysis)
+![GitHub language count](https://img.shields.io/github/languages/count/MAKaminski/data_analysis)
+![GitHub top language](https://img.shields.io/github/languages/top/MAKaminski/data_analysis)
+![Coverage](https://img.shields.io/codecov/c/github/MAKaminski/data_analysis)
+![GitHub contributors](https://img.shields.io/github/contributors/MAKaminski/data_analysis)
+![GitHub license](https://img.shields.io/github/license/MAKaminski/data_analysis)
+
+## Issues
+![GitHub issues](https://img.shields.io/github/issues/MAKaminski/data_analysis)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/MAKaminski/data_analysis)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/MAKaminski/data_analysis)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/MAKaminski/data_analysis)
+
 # Exploring Data Aggregation Across Diverse Frameworks
 Welcome to my GitHub repository, where you'll find the code and insights from my latest project – a comprehensive exploration into the world of data aggregation using multiple frameworks. This project, which I've documented in detail on my .dev blog, aims to shed light on the performance, scalability, and usability of different data processing tools in handling complex, distributed test data.
 
